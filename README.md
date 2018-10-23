@@ -1,2 +1,3 @@
 #Data Structures basic commands
-Add queue implimentation
+To contribute you may simply add DST codes in here:
+For examlple,Add queue implimentation.
